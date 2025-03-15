@@ -1,7 +1,7 @@
 # Automatic Prank Spoon
 
 ##  Project Overview
-The **Automatic Prank Spoon** is a fun and mischievous device designed to surprise anyone trying to eat with it. Using an **Arduino UNO**, a **servo motor**, and a **sensor**, the spoon detects when a person grabs it. Once triggered, the servo motor rotates suddenly, **catapulting the food toward the user’s face**, resulting in a hilarious prank!
+The **Automatic Prank Spoon** is a fun and mischievous device designed to surprise anyone trying to eat with it. Using an **Arduino UNO**, a **servo motor**, and a ** Ultra sonicsensor**, the spoon detects when a person grabs it. Once triggered, the servo motor rotates suddenly, **catapulting the food toward the user’s face**, resulting in a hilarious prank!
 
 ---
 
